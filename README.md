@@ -6,5 +6,5 @@
 
 <h3 align="center"><i>Site Preview</i></h3>
 <p align="center">
-<img src="https://github.com/kzwhitezinn/thayllafotografia/blob/main/preview.PNG"/>
+<img src="https://www.unirio.br/propg/jornadapg/imagens/em-breve/image"/>
 </p>
